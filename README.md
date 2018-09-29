@@ -1,5 +1,9 @@
 # Gliss-engine
-Tiny and picofast CSS web-engine.
+Gliss is a modern, picofast and an ultra-performance CSS-browser engine being developed for applications.
+
+## WARNING
+Still in experimental development.
+
 
 ## Requirements
 Microsoft Visual Studio 2008 =< 2017
