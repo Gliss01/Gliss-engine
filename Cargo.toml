@@ -7,6 +7,14 @@ description = "Tiny and picofast CSS engine"
 
 [dependencies]
 # These packages are mandatory and form the core of this package’s distribution.
+[dependencies]
+gfx = "0.14.0"
+gfx_text = "0.15.0"
+gfx_window_glutin = "0.14.0"
+glutin = "0.7.1"
 
+[[bin]]
+name = "main"
+path = "bin/main.rs"
 
 
