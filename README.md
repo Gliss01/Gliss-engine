@@ -1,5 +1,5 @@
 # Gliss-engine
-Gliss is a modern, picofast and an ultra-performance CSS-browser engine being developed for applications.
+Gliss is a modern, picofast and an ultra-performance CSS engine being developed for IOT and NOT.
 
 ## WARNING
 Still in experimental development.
